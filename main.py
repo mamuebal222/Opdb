@@ -161,3 +161,4 @@ class OSINTApp(App):
 
 if __name__ == "__main__":
     OSINTApp().run()
+    
